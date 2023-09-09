@@ -6,5 +6,6 @@ int main() {
     std::cout << "Tam biet hen gap lai" << std::endl;
 
     std::cout << "The end";
+    std::cout << "enmfjff";
     return 0;
     }
